@@ -1,7 +1,10 @@
 # EventSync
 
-event-sync-server
+# event-sync-server
+contians REST api 
 
-event-sync-mobile
+# event-sync-mobile
+Contains mobile front end
 
-event-sync-web
+# event-sync-web
+Contains angular web app
